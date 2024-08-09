@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">BLE Scanner</string>
+
+    <string name="permissions_request_description">Permissions are required for BLE scanning</string>
+    <string name="unknown_device">Unknown device</string>
+</resources>
